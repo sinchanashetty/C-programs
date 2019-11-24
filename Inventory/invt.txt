@@ -1,0 +1,9 @@
+Asset No=1
+Asset Name=Table
+Asset No=350.899994
+Asset No=2
+Asset Name=Chair
+Asset No=245.000000
+Asset No=3
+Asset Name=Book
+Asset No=150.500000
